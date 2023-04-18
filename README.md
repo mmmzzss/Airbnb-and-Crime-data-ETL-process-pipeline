@@ -20,3 +20,6 @@ Here is the overall layout of the project:
     + Spark, MongoDB
 + Interface to the designed system
     + Flask
+
+![Search Engine Look](/Airbnb&Crime_ETL.jpeg)
+
